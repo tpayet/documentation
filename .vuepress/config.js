@@ -108,6 +108,7 @@ module.exports = {
           title: "🍳 Cookbooks",
           path: "/tutorials/cookbooks/",
           collapsable: false,
+          children: ["/tutorials/cookbooks/running_production"],
         },
         {
           title: "🧷 How to's",
